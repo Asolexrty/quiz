@@ -3,8 +3,8 @@
     <string name="true_button">True</string>
     <string name="false_button">False</string>
     <string name="initial_score">Score 0/13</string>
-    <string name="Incorrect_toast">Wrong!!</string>
-    <string name="Correct_toast">You got it!!</string>
+    <string name="incorrect_toast">Wrong!!</string>
+    <string name="correct_toast">You got it!!</string>
     <string name="question_1">Valentine\'s day is banned in Saudi Arabia.</string>
     <string name="question_2">A slug\'s blood is green.</string>
     <string name="question_3">Approximately one quarter of human bones are in the feet.</string>
@@ -18,4 +18,16 @@
     <string name="question_11">The loudest sound produced by any animal is 188 decibels. That animal is the African Elephant.</string>
     <string name="question_12">No piece of square dry paper can be folded in half more than 7 times.</string>
     <string name="question_13">Chocolate affects a dog\'s heart and nervous system; a few ounces are enough to kill a small dog.</string>
+    <string name="question_14">The onCreate() method is called when the Activity is created.</string>
+    <string name="question_15">An IPv4 address is made up of 32 bits.</string>
+    <string name="question_16">The binary system uses the digits 0, 1 and 2.</string>
+    <string name="question_17">HTTP is a transport layer protocol of the ISO/OSI model.</string>
+    <string name="question_18">In Java, a variable of type int can hold numbers with a decimal point.</string>
+    <string name="question_19">The CPU is the unit that executes the instructions of a program.</string>
+    <string name="question_20">RAM is non-volatile memory: it keeps data even when the device is turned off.</string>
+    <string name="question_21">A router connects different networks by routing packets between them.</string>
+    <string name="question_22">At the same voltage, a resistor with a higher resistance lets more current through.</string>
+    <string name="question_23">The strings.xml file in Android contains the text resources of the app.</string>
+    <string name="question_24">The standard port of the HTTPS protocol is 443.</string>
+    <string name="question_25">A byte is made up of 8 bits.</string>
 </resources>
